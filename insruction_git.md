@@ -1,6 +1,6 @@
 # **Инструкция для работы с Git**
 
-![git](https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Git_icon.svg/1200px-Git_icon.svg.png)
+![git](git!.png)
 
 ## Что такое Git
 
